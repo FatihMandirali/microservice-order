@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj",
+        "projectName": "FreeCourse.Services.Order.Application",
+        "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Application/FreeCourse.Services.Order.Application.csproj",
+        "packagesPath": "/Users/fatihmandirali/.nuget/packages/",
+        "outputPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fatihmandirali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj": {
+                "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj"
+              },
+              "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj": {
+                "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj"
+              },
+              "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {
+                "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.16, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/FreeCourse.Services.Order.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/FreeCourse.Services.Order.Core.csproj",
+        "projectName": "FreeCourse.Services.Order.Core",
+        "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/FreeCourse.Services.Order.Core.csproj",
+        "packagesPath": "/Users/fatihmandirali/.nuget/packages/",
+        "outputPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fatihmandirali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj",
+        "projectName": "FreeCourse.Services.Order.Domain",
+        "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj",
+        "packagesPath": "/Users/fatihmandirali/.nuget/packages/",
+        "outputPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fatihmandirali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/FreeCourse.Services.Order.Core.csproj": {
+                "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/FreeCourse.Services.Order.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj",
+        "projectName": "FreeCourse.Services.Order.Infrastructure",
+        "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Infrastructure/FreeCourse.Services.Order.Infrastructure.csproj",
+        "packagesPath": "/Users/fatihmandirali/.nuget/packages/",
+        "outputPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fatihmandirali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj": {
+                "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/FreeCourse.Services.Order.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+        "projectName": "FreeCourse.Shared",
+        "projectPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+        "packagesPath": "/Users/fatihmandirali/.nuget/packages/",
+        "outputPath": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Shared/FreeCourse.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fatihmandirali/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

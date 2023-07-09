@@ -1,0 +1,15 @@
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.deps.json
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.dll
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Domain.pdb
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.csproj.AssemblyReference.cache
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.AssemblyInfoInputs.cache
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.AssemblyInfo.cs
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.csproj.CoreCompileInputs.cache
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.dll
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/refint/FreeCourse.Services.Order.Domain.dll
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.pdb
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/ref/FreeCourse.Services.Order.Domain.dll
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Core.dll
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/bin/Debug/net7.0/FreeCourse.Services.Order.Core.pdb
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Domain/obj/Debug/net7.0/FreeCourse.Services.Order.Domain.csproj.CopyComplete

@@ -1,0 +1,12 @@
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/bin/Debug/net7.0/FreeCourse.Services.Order.Core.deps.json
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/bin/Debug/net7.0/FreeCourse.Services.Order.Core.dll
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/bin/Debug/net7.0/FreeCourse.Services.Order.Core.pdb
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/Debug/net7.0/FreeCourse.Services.Order.Core.csproj.AssemblyReference.cache
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/Debug/net7.0/FreeCourse.Services.Order.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/Debug/net7.0/FreeCourse.Services.Order.Core.AssemblyInfoInputs.cache
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/Debug/net7.0/FreeCourse.Services.Order.Core.AssemblyInfo.cs
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/Debug/net7.0/FreeCourse.Services.Order.Core.csproj.CoreCompileInputs.cache
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/Debug/net7.0/FreeCourse.Services.Order.Core.dll
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/Debug/net7.0/refint/FreeCourse.Services.Order.Core.dll
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/Debug/net7.0/FreeCourse.Services.Order.Core.pdb
+/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/Order/FreeCourse.Services.Order.Core/obj/Debug/net7.0/ref/FreeCourse.Services.Order.Core.dll

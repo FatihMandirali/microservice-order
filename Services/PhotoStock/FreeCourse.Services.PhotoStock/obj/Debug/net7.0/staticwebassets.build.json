@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EuJ0WBG1cC4v8QbOurwgrM9s+LueFMgxQnbKRoFuA2w=",
+  "Source": "FreeCourse.Services.PhotoStock",
+  "BasePath": "_content/FreeCourse.Services.PhotoStock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FreeCourse.Services.PhotoStock/wwwroot",
+      "Source": "FreeCourse.Services.PhotoStock",
+      "ContentRoot": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/PhotoStock/FreeCourse.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/FreeCourse.Services.PhotoStock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/PhotoStock/FreeCourse.Services.PhotoStock/wwwroot/photos/Screenshot 2023-06-21 at 21.55.50.png",
+      "SourceId": "FreeCourse.Services.PhotoStock",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/fatihmandirali/Documents/ws/lessons/microservice/project-example/UdemyMicroservices/Services/PhotoStock/FreeCourse.Services.PhotoStock/wwwroot/",
+      "BasePath": "_content/FreeCourse.Services.PhotoStock",
+      "RelativePath": "photos/Screenshot 2023-06-21 at 21.55.50.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/photos/Screenshot 2023-06-21 at 21.55.50.png"
+    }
+  ]
+}
